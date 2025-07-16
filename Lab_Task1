@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <title> S. F. SHEIKH SAADI </title>
+
+        <h1> S. F. SHEIKH SAADI  </h1>
+
+        <P> My name is S. F. Sheikh Saadi.<br> I am 24 years old. <br>Currently a student at the American International University-Bangladesh (AIUB).<br> I am enrolled in the Department of Computer Science and Engineering (CSE) and presently in my 10th semester. </P>
+            <h3> My hobby is travelling.  </h3>
+            <p style= "color: red;"> my favourite games is badminton. </p>
+                        <p style= "color: black;"> My favourite color is black. </p>
+                                    <p style= "color: green;"> My favourite food is biriyani. </p>
+                                    <a href="https://www.aiub.edu/" > AIUB <br> </a>
+                                    <a href="https://www.aiub.edu/" > <br> <img src="AIUB-Campus-960x640.jpg" width="400" height="200"> </a>
+                                       <p></p> 
+                                       <img src="1347144.png" width="400" height="200">
+                                       <list><ul>
+                                        <li> Travelling </li>
+                                        <li> Games and Sports </li>
+                                        <li> Riding </li>
+                                       </ul>
+                                       
+                                       <ol>
+                                        <li> Travelling </li>
+                                        <li> Games and Sports </li>
+                                        <li> Riding </li>
+                                       </ol>
+
+                                       </list>
+
+
+
+ 
+
+
+
+    </body>
+</html>
