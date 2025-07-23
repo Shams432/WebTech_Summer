@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>MID_Task_2.png</title>
+    <body>
+
+        <style>
+            body {background-color: lightblue;}
+            h1,h2{color:yelow;}
+            table
+            {
+                background-color: #fff;
+                border:1px solid: #ccc;
+                margin :auto;
+                pading: 20px;
+            }
+
+            input[type="submit"],
+            {
+                background-color:skyblue;
+                color:red;
+                pading: 5px;
+                cursor: pointer;
+            }
+            
+
+
+        </style>
+
+        <center>
+        <h1 style="color:blue" >Bank Management System</h1>
+        <h2 style="color:green" >Your Trusted Financial Partnmer</h2>
+        <h4 style="color:blue" >Customer Registration Form</h4>
+
+        </center>
+        
+
+        <table>
+            <tr>
+            <td>Full Name:</td><td><input type="text"></td>
+            </tr>
+
+            <tr>
+                <td>Enter yor date of birth:</td><td><input type="date"></td>
+            </tr>
+            
+
+            <tr>
+                <td>Enter yor Email:</td><td><input type="text"></td>
+            </tr>
+
+            <tr>
+                <td>Enter yor Password:</td><td><input type="text"></td>
+            </tr>
+
+       
+             <tr>
+                <td>Gender:</td>
+                 <td><input type="radio" name="des">Male</td>
+                 <td><input type="radio" name="des">Female</td>
+                 <td><input type="radio" name="des">Other</td>
+            </tr>
+
+    
+            <tr>
+                <td>Marital Status</td>
+                <td>
+                    <Select Name="">
+                        <option value="">Single</option>
+                        <option value="">Married</option>
+                        <option value="">Divoced</option>
+                        </select>
+
+                </td>
+
+
+                   
+            <tr>
+                <td>Account Type</td>
+                <td>
+                    <Select Name="">
+                        <option value="">Savings</option>
+                        <option value="">Current</option>
+                        <option value="">Fixed</option>
+                        </select>
+
+                </td>
+
+                
+            <tr>
+                <td>Initial Deposit Ammount:</td><td><input type="text"></td>
+            </tr>
+            
+            <tr>
+                <td>Mobile Number:</td><td><input type="text"></td>
+            </tr>
+            
+            <tr>
+                <td>Email Address:</td><td><input type="text"></td>
+            </tr>
+            <tr>
+                <td>Address:</td><td><input type="text"></td>
+            </tr>
+
+            <tr>
+                <td>Occupation:</td><td><input type="text"></td>
+            </tr>
+            <tr>
+                <td>National NID (NID):</td><td><input type="text"></td>
+            </tr>
+            <tr>
+                <td>Set Password:</td><td><input type="text"></td>
+            </tr>
+            <tr>
+                <td>Upload ID proof:</td><td><input type="file"></td>
+            </tr>
+            <tr>
+                <td><input type="checkbox"> I agree to the terms and condition</td>
+            </tr>
+
+
+
+            </tr> <br>
+        
+            
+            <br>
+            <tr>
+                <td>
+                    <input type="Submit" value="Register" style="color:red;">
+                
+                    <input type="submit" value="Clear" style="color:black;">
+                </td>
+            </tr>
+        </table>    
+
+
+    </body>
+    </head>
+
+</html>
